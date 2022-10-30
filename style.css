@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Lobster Two', cursive;
+    color: rgb(129, 97, 37)
+}
+body{
+    background-color: darkblue;
+    text-align: center;
+    border: 10px solid white;
+}
